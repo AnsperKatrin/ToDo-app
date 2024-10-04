@@ -1,0 +1,20 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "todo",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Katrin",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
